@@ -1,4 +1,4 @@
-package com.test2;
+package JavaBasic.test2;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package com.test3;
+package JavaBasic.test3;
 
 public class myTest3 {
     public static void main(String[] args) {

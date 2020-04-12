@@ -1,4 +1,4 @@
-package com.test4;
+package JavaBasic.test4;
 
 public class User {
 

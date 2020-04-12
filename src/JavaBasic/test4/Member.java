@@ -1,4 +1,4 @@
-package com.test4;
+package JavaBasic.test4;
 
 import java.util.ArrayList;
 import java.util.Random;

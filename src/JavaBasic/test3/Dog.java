@@ -1,4 +1,4 @@
-package com.test3;
+package JavaBasic.test3;
 
 public abstract class Dog extends Animal{
     @Override

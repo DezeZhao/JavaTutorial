@@ -1,4 +1,4 @@
-package com.test3;
+package JavaBasic.test3;
 
 /*
 抽象类  抽象方法所在的类必须是抽象类

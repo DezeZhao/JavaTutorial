@@ -1,4 +1,4 @@
-package com.test;
+package JavaBasic.test;
 
 import java.awt.print.Pageable;
 
