@@ -18,6 +18,8 @@ public class Demo07Interface {
         }
     }
 
+    //interface作为方法参数和返回值类型
+    //List实际上就是ArrayList的接口
     public static List<String> addNames(List<String> list) {
         list.add("迪丽热巴");
         list.add("古力娜扎");
