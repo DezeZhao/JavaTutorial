@@ -2,7 +2,7 @@ package JavaBasic.test6.Demo06;
 
 //类对象作为成员变量
 //类作为成员变量时，对它进行赋值的操作，实际上，是赋给它该类的一个对象。
-public class DemoMain {
+public class Demo06Main {
 
     public static void main(String[] args) {
         // 创建一个英雄角色
