@@ -1,4 +1,4 @@
-package JavaAdvance.Collection_Reflect.DemoIterator;
+package JavaAdvance.Collection_Generic.DemoIterator;
 
 import java.util.ArrayList;
 import java.util.Collection;
