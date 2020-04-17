@@ -1,6 +1,5 @@
 package JavaAdvance.List_Set.DemoSet;
 
-import org.w3c.dom.ls.LSOutput;
 
 /*
     哈希值:是一个十进制的整数,由系统随机给出(就是对象的地址值,是一个逻辑地址,
@@ -42,7 +41,6 @@ public class HashCode {
 
         System.out.println("重地".hashCode());//1179395
         System.out.println("通话".hashCode());//1179395
-
     }
 
 
